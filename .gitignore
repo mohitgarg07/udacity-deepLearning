@@ -1,4 +1,6 @@
-.ipynb_checkpoints
-.DS_Store
-.pyc
-.p
+*.ipynb_checkpoints
+*.DS_Store
+*.pyc
+*.p
+*.pt
+*.pkl
